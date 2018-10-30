@@ -27,10 +27,11 @@
   "homepage": "https://github.com/iredelmeier/jasmine-webpack-plugin#readme",
   "dependencies": {
     "html-webpack-plugin": "^1.6.2",
-    "jasmine-core": "^2.3.4"
   },
   "peerDependencies": {
-    "jasmine-core": "^2.3.4"
+    "jasmine-core": "*"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "jasmine-core": "^2.3.4"
+  }
 }
