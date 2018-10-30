@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/iredelmeier/jasmine-webpack-plugin#readme",
   "dependencies": {
-    "html-webpack-plugin": "^1.6.2",
+    "html-webpack-plugin": "^1.6.2"
   },
   "peerDependencies": {
     "jasmine-core": "*"
